@@ -1,0 +1,15 @@
+Original packages:
+P1(20) P2(15) P3(20) P4(10)
+P5(15) P6(20) P7(25) P8(10)
+
+After Merge Sort:
+P4(10) P8(10) P2(15) P5(15)
+P1(20) P3(20) P6(20) P7(25)
+
+After Quick Sort:
+P4(10) P8(10) P5(15) P2(15)
+P3(20) P6(20) P1(20) P7(25)
+
+After Stable Quick Sort:
+P4(10) P8(10) P2(15) P5(15)
+P1(20) P3(20) P6(20) P7(25)
